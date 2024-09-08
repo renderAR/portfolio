@@ -103,6 +103,7 @@ const initialData: Data = {
         "This simple web app for showcasing my job experiences and side projects.",
       image: "/portfolio/images/portfolio.png",
       technologies: ["Typescript", "React", "Material UI", "Vite", "Git"],
+      github: 'https://github.com/renderAR/portfolio',
     },
   ],
 };
